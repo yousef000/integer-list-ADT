@@ -1,0 +1,5 @@
+1- first make ssh key --> ssh-keygen
+2- make a folder, then clone that folder --> git clone 'link' 'folder'
+3- git status
+4- git add
+5- git commit -m
